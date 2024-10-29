@@ -1,0 +1,12 @@
+ipykernel
+factorial
+requests
+nltk
+gensim
+tensorflow
+pandas
+numpy
+scikit-learn
+tensorboard
+matplotlib
+streamlit
